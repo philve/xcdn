@@ -1,9 +1,11 @@
 ## xcdn
 
-尝试找出cdn背后的真实ip
+Try to find out the real IP behind CDN
 
-[!] 法律免责声明:未经事先相互同意,使用本程序攻击目标是非法的.使用本程序的最终用户有责任遵守所有适用的地方、国家法律.开发人员对本程序造成的任何误用、滥用、非法使用不承担任何责任.
+[!] Legal Disclaimer: It is illegal to use this program to attack the target without advance consent. 
+The end users who use this program have the responsibility to abide by all applicable places and national laws. 
+Developers have any misuse and abuse of any misuse and abuse of this program. Illegal use and not assumed any responsibility.
 
-注:需要在kali下运行
+Note: Need to run under KALI
 
 `usage:python3 xcdn.py www.baidu.com`
